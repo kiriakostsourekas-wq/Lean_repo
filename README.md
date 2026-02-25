@@ -1,2 +1,2 @@
 # Lean_repo
-This repo contains all my projects in lean.
+This repo contains all my projects in Lean.
